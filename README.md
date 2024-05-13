@@ -22,7 +22,6 @@
   - Police4
   - Pranger
   - PoliceBike / Policeb
-  - PoliceMaverick / Polmav
 
 - Replaced FBI design:
   - FBI
@@ -38,11 +37,7 @@
 - Added special police cars:
   - Pitbullbb / SWAT
   - Gatorfire / Beach-Buggy
- 
-- Added EMS:
-  - Ambulance22
-  - EMSNSpeedo
-  - EMSRoamer
+
 
 ## 🖼️Pictures
 <details>
@@ -72,8 +67,6 @@ PoliceTransporter: ![policet](https://user-images.githubusercontent.com/60815764
 
 Gatorfire: ![gatorfire](https://user-images.githubusercontent.com/60815764/185719017-7c7d1425-2b3f-4321-b1f8-6f3f7cea3bbc.png)
 
-PoliceMaverick: ![polmav](https://user-images.githubusercontent.com/60815764/185719031-8a8cf9b2-cae0-427a-9154-9cc9741ba62a.png)
-
 PoliceBike: ![policeb](https://user-images.githubusercontent.com/60815764/185719063-ed73dc7c-8edc-4aaa-84d1-6d36c0d8e5dd.png)
 
 PoliceSWAT: ![pitbull](https://user-images.githubusercontent.com/60815764/185719168-2370e9f7-0999-4483-98c1-ccdf2fa7388a.png)
@@ -93,24 +86,13 @@ FBI: ![fbi](https://user-images.githubusercontent.com/60815764/185718424-391aed1
 FBI2: ![fbi2](https://user-images.githubusercontent.com/60815764/185718435-056b8f79-ffa0-426d-a9ce-ac84d58ae111.png)
 </details>
 
-<details>
-<summary>🚑Ambulances:</summary>
-
-Ambulance22: ![ambulance22](https://user-images.githubusercontent.com/60815764/185718126-6987a98a-bb82-4345-9b32-a521e5277fed.png)
-
-EMSNSpeedo: ![emsnspeedo](https://user-images.githubusercontent.com/60815764/185718146-7af72e09-dcd6-4877-97d2-c9a071f3df58.png)
-
-EMSRoamer: ![emsroamer](https://user-images.githubusercontent.com/60815764/185718175-fd8ba648-a9fd-4dd2-af2a-6a1f8cbc4f45.png)
-</details>
-
 ## 📋Download & 🛠️Installation
 ### Server.cfg
 ```
 ## Emergency Vehicles
-start EMS
 start Police-Beach-Buggy
 start Police-Cars
-start Police-Mav-Bike
+start Police-Bike
 start Police-SWAT
 start Sheriff-Cars
 start Sheriff-High-Speed-Unit
@@ -129,8 +111,6 @@ start Sheriff-High-Speed-Unit
 [VirusTotal](https://www.virustotal.com/gui/url/2d7d7016b45eb5e17ee2bb1d993c33b6db911059ce2937829d6aa02ab9e0bf0a?nocache=1)
 
 </details>
-
-- [ ] 🚑I think Ambulance22 isn't working anymore
 
 ## 🖥️Performance:
 - ⚠️In general, I mainly used cars that are very detailed and realistic, so performance suffers as a result. Some cars are modeled higher than the standard cars, which can also cause map errors. 
